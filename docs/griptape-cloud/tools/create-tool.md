@@ -14,4 +14,4 @@ You can now [create a Tool in the Griptape Cloud console](https://cloud.griptape
 
 ### Quickstart With Samples and Templates
 
-To get started with Structures in the Cloud, check out the [managed-tool-template on GitHub](https://github.com/griptape-ai/managed-tool-template) or deploy one of the [griptape-sample-tools from GitHub](https://github.com/griptape-ai/griptape-sample-tools/tree/main).
+To get started with Tools in the Cloud, deploy one of the [griptape-sample-tools from GitHub](https://github.com/griptape-ai/griptape-sample-tools/tree/main).
