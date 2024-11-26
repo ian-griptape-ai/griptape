@@ -12,7 +12,7 @@ Have Griptape code? Have existing code with another LLM framework? You can host 
 
 ## Empower any LLM With Custom Tools
 
-Create custom actions that LLMs can perform with [Tools][tools/create-tool.md]. These Tools can be created, shared, and given to any LLM integration.
+Create custom actions that LLMs can perform with [Tools](tools/create-tool.md). These Tools can be created, shared, and given to any LLM integration.
 
 ## Store Configuration for LLM Agents
 
