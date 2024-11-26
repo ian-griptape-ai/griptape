@@ -18,4 +18,4 @@ To fetch the OpenAPI schema, the route is `https://cloud.griptape.ai/api/tools/{
 
 ## Using the Griptape Framework
 
-The Griptape framework provides a [`GriptapeCloudToolTool`](../../../docs/griptape-tools/official-tools/griptape-cloud-tool-tool.md) for interacting with your deployed Tools. Simply pass your Tool resource UUID as the `tool_id` kwarg, and the schema and activity methods will be dynamically set on the Tool.
+The Griptape framework provides a [`GriptapeCloudToolTool`](../../griptape-tools/official-tools/griptape-cloud-tool-tool.md) for interacting with your deployed Tools. Simply pass your Tool resource UUID as the `tool_id` kwarg, and the schema and activity methods will be dynamically set on the Tool.
