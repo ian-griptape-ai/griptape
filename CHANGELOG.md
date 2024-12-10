@@ -7,10 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## Fixed
-
-- Exception when calling `Structure.to_json()` after it has run.
-
 ### Added
 
 - `PromptTask.conversation_memory` for setting the Conversation Memory on a Prompt Task.
@@ -19,6 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `BranchTask` for selecting which Tasks (if any) to run based on a condition.
 - Support for `BranchTask` in `StructureVisualizer`.
 - `EvalEngine` for evaluating the performance of an LLM's output against a given input.
+
+## Fixed
+
+- Exception when calling `Structure.to_json()` after it has run.
 
 ## [1.0.0] - 2024-12-09
 
